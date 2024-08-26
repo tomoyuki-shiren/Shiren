@@ -384,7 +384,7 @@
 
 
 # 参考
-※1 [風来のシレン6～ダメージ計算について～](https://note.com/feketerigo6/n/n44e373fda515)
-※2 [【暫定】シレン6  ダメージ計算](https://koyubistrong.github.io/index.html?id=section_shiren6)
-※3 [強化の壺の割れ方について](https://note.com/213414/n/nd05261740fe7)
+- ※1 [風来のシレン6～ダメージ計算について～](https://note.com/feketerigo6/n/n44e373fda515)
+- ※2 [【暫定】シレン6  ダメージ計算](https://koyubistrong.github.io/index.html?id=section_shiren6)
+- ※3 [強化の壺の割れ方について](https://note.com/213414/n/nd05261740fe7)
 
